@@ -1,4 +1,4 @@
-# Library Management System by RENEIL
+# Library Management System
 
 This is a Library Management System built using Python, Tkinter for the graphical user interface (GUI), and SQLite as the database backend. It allows users to manage library books, issue books to students and employees, and manage user accounts.
 
@@ -43,7 +43,13 @@ This is a Library Management System built using Python, Tkinter for the graphica
 - **Student Dashboard:** Allows students to search for books and see their issued books.
 - **Logout:** Log out and return to the main screen.
 ## Screenshots
-.
+
+| ![Screenshot 1](Layout/Home.PNG)                | ![Screenshot 2](Layout/Add%20Book%20Details.PNG) | ![Screenshot 3](Layout/Delete%20Book.PNG)   |
+|-------------------------------------------------|--------------------------------------------------|--------------------------------------------|
+| ![Screenshot 4](Layout/View%20Book%20List.PNG)  | ![Screenshot 5](Layout/Search%20Book.PNG)    | ![Screenshot 6](Layout/Issued%20book%20Details.PNG) |
+|| ![Screenshot 7](Layout/Return%20Book.PNG)       |
+
+
 
 ## Future Enhancements
 - Add book search functionality for both students and employees.
